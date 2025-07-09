@@ -3,4 +3,8 @@ This is a repository for the ES metric selection project. In this project, I ada
 
 This repository contains a complete reference list for the current study.
 
-I’d welcome any comments or suggestions—please feel free to reach out to me at jzhang2637@wisc.edu.
+Here’s a brief survey—I’m curious to learn more about the discipline you're working in and any challenges you’ve encountered when selecting effect size metrics. I'd welcome any further questions, comments, or suggestions: https://uwmadison.co1.qualtrics.com/jfe/form/SV_bg80GczhhOUuXeC
+
+Please also feel free to reach out to me at jzhang2637@wisc.edu.
+
+Thank you for your interest!
